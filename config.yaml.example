@@ -1,0 +1,13 @@
+email: 'email@school.edu'
+password: 'MyPassword'
+
+update_endpoint: 'http://school.edu/vivo/api/sparqlUpdate'
+query_endpoint: 'http://school.edu/vivo/api/sparqlQuery'
+
+namespace: 'http://school.edu/individual/'
+
+folder_for_logs: 'path/to/log/folder/'
+
+filter_folder: 'path/to/filter/folder/'
+
+grant_file: 'path/to/grant/file.csv'
