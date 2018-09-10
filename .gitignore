@@ -132,3 +132,4 @@ p3env/
 # End of https://www.gitignore.io/api/macos,python
 
 config.yaml
+data_out/*
